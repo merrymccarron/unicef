@@ -26,10 +26,7 @@ with open('../WebApp/data/entities.txt', 'wb') as outfile:
         word = word.replace('\s+', ' ')
         word = word.title()
         word = word.replace('Al-', 'al-')
-<<<<<<< HEAD
-=======
         word = word.replace('-', ' ')
->>>>>>> bd752033e2c3ab5057436f57edd27d5f512eb2e6
         
         splits = word.split()
         phrase = []
