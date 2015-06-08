@@ -3,7 +3,7 @@
 The goal of this project was to take texts containing summaries of important news events around the world (”Crisis News Briefs”) and extract meaningful data to reveal spatial, temporal and categorical trends. Working with our client, UNICEF, we found that it was important to show broad trends while still making the most granular parts of the data accessible for users. Natural language processing tools, including Latent Dirichlet Allocation (LDA), Name Entity Recognition (NER), text parsing tools and k-means clustering were used to process the raw textual data provided by the client. Briefs are sent out on a daily basis, which provided reliable date information for temporal trends. Geospatial data was extracted from the texts and mapped on the country level, unless documents specified the news stories as regional or global in scope.
 
 ### Link to working demo 
-`http://adysevy.github.io/unicef/WebApp/`
+`[http://adysevy.github.io/unicef/WebApp/](http://adysevy.github.io/unicef/WebApp/)`
 	
 ### Run visualization localy
 1. Clone the repository
